@@ -1,6 +1,6 @@
 package problemSolving;
 
-public class LeetCode2525ReverseNodesInKGroup {
+public class LeetCode25ReverseNodesInKGroup {
     public static class ListNode{
         int val;
         ListNode next;
@@ -53,7 +53,7 @@ public class LeetCode2525ReverseNodesInKGroup {
     }
 
     public static void main(String[] args) {
-        LeetCode2525ReverseNodesInKGroup solution = new LeetCode2525ReverseNodesInKGroup();
+        LeetCode25ReverseNodesInKGroup solution = new LeetCode25ReverseNodesInKGroup();
 
         // Create linked list: 1 -> 2 -> 3 -> 4 -> 5
         ListNode head = new ListNode(1);
