@@ -12,7 +12,7 @@ public class LeetCode1611 {
 
 
     public static void main(String[] args) {
-        System.out.println(minimumOneBitOperations(3)); // Output: 2
+        System.out.println(minimumOneBitOperations(9)); // Output: 2
     }
 
 }
